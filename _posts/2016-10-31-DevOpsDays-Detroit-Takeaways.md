@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DevOpsDays Detroit 2016 - Takeaways?
+title: DevOpsDays Detroit 2016 - Takeaways
 published: true
 ---
 This year I attended DevOpsDays detroit.  Like last year, the organization of the event and the general feel of the experience were both outstanding. Two days seems like a lot at first, but it flies by.  Special thanks to the RightBrainNetworks team. 
