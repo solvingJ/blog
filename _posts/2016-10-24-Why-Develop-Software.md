@@ -3,9 +3,11 @@ layout: post
 title: Why Develop Software?
 published: true
 ---
+A few years ago, I started the challenging transition from a career as an experienced IT professional to a more junior software developer.  Many people have asked why, so I thought I'd start a blog post with some thoughts about Software Development as a career and hobby in general. 
+
 ### Fulfilling a Need
 
-I believe it's important for the human mind to "create". Even those who don't think they're "creative" can't resist this urge.  This is clearly evidenced by the proliferation of paper airplanes and footballs in schools, gardens in backyards, and entire worlds in Minecraft. On a personal level, when I started working with computers, I quickly became addicted to helping people by solving their technical problems.  For me, developing software has been my way of fulfilling both these needs at the same time. It also happens to generate food. 
+I believe it's important for the human mind to "create". Even those who don't think they're "creative" can't resist this urge.  This is clearly evidenced by the proliferation of paper airplanes and footballs in schools, gardens in backyards, and entire worlds in Minecraft. On a personal level, when I started working with computers, I quickly became addicted to helping people by solving their technical problems. When designing and building complex network and server environments, there was a fair amount of creation and problem solving.  However, after a project where I was forced wade a little deeper into the waters of software development, I could see that the opportunities to create and solve problems were vast in comparison to IT. Also, there were problems in IT for which there were no good solutions, and which I felt I could solve some day with software. 
 
 ### My Advice for Would-Be Developers
 If you enjoy working with technology, then I encourage you to ignore the apparent overwhelming complexity that exists on the face of software development, and try your hand. For those who know they want to become developers, but aren't confident in their abilities, do not be discouraged. Despite being a natural technologist, I was NOT a natural developer.  Perhaps it was because I started later in life, but I continue to have to wrestle with new concepts for months before actually being able to read or write an example (even simple ones). I think I would have been discouraged, if not so stubborn... so be stubborn. 
