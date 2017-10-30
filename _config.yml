@@ -1,6 +1,6 @@
 ### your site title here
 
-title: Krishna
+title: solvingj's blog
 
 
 sass: 
@@ -10,9 +10,6 @@ sass:
 # Tracker
 analytics: UA-83979019-1
 
-
-exclude:
-- README.md
 
 include: 
 - _pages
