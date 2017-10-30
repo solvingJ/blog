@@ -12,7 +12,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: solvingj's blog
 
 description: SolvingJ's Blog
 author:
